@@ -171,13 +171,13 @@ const BLOG = {
     // 静态彩带特效
     RIBBON: process.env.NEXT_PUBLIC_RIBBON || false, // 开关
     // 星空雨特效 黑夜模式才会生效
-    STARRY_SKY: process.env.NEXT_PUBLIC_STARRY_SKY || false, // 开关
+    STARRY_SKY: process.env.NEXT_PUBLIC_STARRY_SKY || true, // 开关
 
     //   ********挂件组件相关********
     // Chatbase
     CHATBASE_ID: process.env.NEXT_PUBLIC_CHATBASE_ID || null, // 是否显示chatbase机器人 https://www.chatbase.co/
     // 悬浮挂件
-    WIDGET_PET: process.env.NEXT_PUBLIC_WIDGET_PET || true, // 是否显示宠物挂件
+    WIDGET_PET: process.env.NEXT_PUBLIC_WIDGET_PET || false, // 是否显示宠物挂件
     WIDGET_PET_LINK:
         process.env.NEXT_PUBLIC_WIDGET_PET_LINK ||
         'https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json', // 挂件模型地址 @see https://github.com/xiazeyu/live2d-widget-models
