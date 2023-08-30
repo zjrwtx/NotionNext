@@ -1,7 +1,7 @@
 const CONFIG = {
 
   HOME_BANNER: true, // 首页是否显示大图及标语 [true,false]
-  HOME_BANNER_Strings: ["公众号:迷糊AI实验室 "], // 首页大图标语文字
+  HOME_BANNER_Strings: ["公众号:正经人王同学的AI实验室 "], // 首页大图标语文字
 
   NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部并始终显示、固定屏幕顶部且滚动时隐藏，不固定屏幕顶部
 

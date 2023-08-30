@@ -11,7 +11,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '公众号',
-  HERO_TITLE_2: '迷糊AI实验室',
+  HERO_TITLE_2: '正经人王同学的AI实验室',
   HERO_TITLE_3: '',
   HERO_TITLE_4: '',
   HERO_TITLE_5: '做AIGC时代的先锋者',
