@@ -21,7 +21,7 @@ function SiteInfo ({ title }) {
             <span className='hidden busuanzi_container_site_pv'> <i className='fas fa-eye' /><span className='px-1 busuanzi_value_site_pv'> </span>  </span>
             <span className='pl-2 hidden busuanzi_container_site_uv'> <i className='fas fa-users' /> <span className='px-1 busuanzi_value_site_uv'> </span> </span>
             <br />
-            <span className='text-xs font-serif'> Powered by <a href='https://github.com/tangly1024/NotionNext' className='underline'>NotionNext {BLOG.VERSION}</a></span><br /></span>
+            <span className='text-xs font-serif'> Powered by <a href='https://mp.weixin.qq.com/s/OXjOVSswjGxhJ4SyW8j6IQ' className='underline'>公众号:正经人王同学</a></span><br /></span>
             <h1>{title}</h1>
         </footer>
   )
